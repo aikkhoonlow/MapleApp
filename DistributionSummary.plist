@@ -9,10 +9,8 @@
 			<array>
 				<string>arm64</string>
 			</array>
-			<key>bitcode</key>
-			<false/>
 			<key>buildNumber</key>
-			<string>3</string>
+			<string>1</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -29,10 +27,8 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
-					<string>3</string>
+					<string>1.0</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
@@ -44,8 +40,6 @@
 					</dict>
 					<key>name</key>
 					<string>App.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -54,17 +48,15 @@
 						<string>MAPLE BUSINESS MANAGEMENT (M) SDN. BHD.</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>1.0.0</string>
+					<string>1.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
-					<string>3</string>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
@@ -76,8 +68,6 @@
 					</dict>
 					<key>name</key>
 					<string>FMDB.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -86,17 +76,15 @@
 						<string>MAPLE BUSINESS MANAGEMENT (M) SDN. BHD.</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>1.0.0</string>
+					<string>2.7.5</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
-					<string>3</string>
+					<string>1.0</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
@@ -108,8 +96,6 @@
 					</dict>
 					<key>name</key>
 					<string>Flutter.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -118,17 +104,15 @@
 						<string>MAPLE BUSINESS MANAGEMENT (M) SDN. BHD.</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>1.0.0</string>
+					<string>1.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
-					<string>3</string>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
@@ -140,8 +124,6 @@
 					</dict>
 					<key>name</key>
 					<string>OneSignal.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -150,17 +132,15 @@
 						<string>MAPLE BUSINESS MANAGEMENT (M) SDN. BHD.</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>1.0.0</string>
+					<string>1.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
-					<string>3</string>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
@@ -172,8 +152,6 @@
 					</dict>
 					<key>name</key>
 					<string>OneSignalCore.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -182,17 +160,15 @@
 						<string>MAPLE BUSINESS MANAGEMENT (M) SDN. BHD.</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>1.0.0</string>
+					<string>1.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
-					<string>3</string>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
@@ -204,8 +180,6 @@
 					</dict>
 					<key>name</key>
 					<string>OneSignalExtension.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -214,17 +188,15 @@
 						<string>MAPLE BUSINESS MANAGEMENT (M) SDN. BHD.</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>1.0.0</string>
+					<string>1.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
-					<string>3</string>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
@@ -236,8 +208,6 @@
 					</dict>
 					<key>name</key>
 					<string>OneSignalOutcomes.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -246,17 +216,15 @@
 						<string>MAPLE BUSINESS MANAGEMENT (M) SDN. BHD.</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>1.0.0</string>
+					<string>1.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
-					<string>3</string>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
@@ -268,8 +236,6 @@
 					</dict>
 					<key>name</key>
 					<string>Reachability.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -278,17 +244,15 @@
 						<string>MAPLE BUSINESS MANAGEMENT (M) SDN. BHD.</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>1.0.0</string>
+					<string>5.0.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
-					<string>3</string>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
@@ -300,8 +264,6 @@
 					</dict>
 					<key>name</key>
 					<string>connectivity_plus.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -310,17 +272,15 @@
 						<string>MAPLE BUSINESS MANAGEMENT (M) SDN. BHD.</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>1.0.0</string>
+					<string>0.0.1</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
-					<string>3</string>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
@@ -332,8 +292,6 @@
 					</dict>
 					<key>name</key>
 					<string>path_provider_ios.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -342,17 +300,15 @@
 						<string>MAPLE BUSINESS MANAGEMENT (M) SDN. BHD.</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>1.0.0</string>
+					<string>0.0.1</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
-					<string>3</string>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
@@ -364,8 +320,6 @@
 					</dict>
 					<key>name</key>
 					<string>pdf_viewer_plugin.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -374,17 +328,15 @@
 						<string>MAPLE BUSINESS MANAGEMENT (M) SDN. BHD.</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>1.0.0</string>
+					<string>0.0.1</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
-					<string>3</string>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
@@ -396,8 +348,6 @@
 					</dict>
 					<key>name</key>
 					<string>sqflite.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -406,17 +356,15 @@
 						<string>MAPLE BUSINESS MANAGEMENT (M) SDN. BHD.</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>1.0.0</string>
+					<string>0.0.2</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
-					<string>3</string>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
@@ -428,8 +376,6 @@
 					</dict>
 					<key>name</key>
 					<string>webview_flutter_wkwebview.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -438,17 +384,13 @@
 						<string>MAPLE BUSINESS MANAGEMENT (M) SDN. BHD.</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>1.0.0</string>
+					<string>0.0.1</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
-					<key>buildNumber</key>
-					<string>3</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
@@ -462,8 +404,6 @@
 					<dict>
 						<key>application-identifier</key>
 						<string>G8C4WBT7Q8.my.com.intds.maplebiz.OneSignalNotificationServiceExtension</string>
-						<key>beta-reports-active</key>
-						<true/>
 						<key>com.apple.developer.team-identifier</key>
 						<string>G8C4WBT7Q8</string>
 						<key>get-task-allow</key>
@@ -478,14 +418,12 @@
 					<key>profile</key>
 					<dict>
 						<key>UUID</key>
-						<string>8dd0e8c2-77d5-4777-8615-1ec2a4f5f16b</string>
+						<string>07e1d1e4-38f0-4645-a024-c40310db07c8</string>
 						<key>dateExpires</key>
 						<string>07/12/2023</string>
 						<key>name</key>
-						<string>iOS Team Store Provisioning Profile: my.com.intds.maplebiz.OneSignalNotificationServiceExtension</string>
+						<string>iOS Team Ad Hoc Provisioning Profile: my.com.intds.maplebiz.OneSignalNotificationServiceExtension</string>
 					</dict>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -493,8 +431,6 @@
 						<key>name</key>
 						<string>MAPLE BUSINESS MANAGEMENT (M) SDN. BHD.</string>
 					</dict>
-					<key>versionNumber</key>
-					<string>1.0.0</string>
 				</dict>
 			</array>
 			<key>entitlements</key>
@@ -503,8 +439,6 @@
 				<string>G8C4WBT7Q8.my.com.intds.maplebiz</string>
 				<key>aps-environment</key>
 				<string>production</string>
-				<key>beta-reports-active</key>
-				<true/>
 				<key>com.apple.developer.team-identifier</key>
 				<string>G8C4WBT7Q8</string>
 				<key>get-task-allow</key>
@@ -515,14 +449,12 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>bda23650-dc0f-4418-9217-30c0513b673e</string>
+				<string>86b4f491-d128-4f14-af25-51eb8a434aa2</string>
 				<key>dateExpires</key>
 				<string>07/12/2023</string>
 				<key>name</key>
-				<string>iOS Team Store Provisioning Profile: my.com.intds.maplebiz</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: my.com.intds.maplebiz</string>
 			</dict>
-			<key>symbols</key>
-			<true/>
 			<key>team</key>
 			<dict>
 				<key>id</key>
