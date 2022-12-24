@@ -11,14 +11,23 @@
 		<key>appURL</key>
 		<string>https://raw.githubusercontent.com/aikkhoonlow/MapleApp/main/maplebiz.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://raw.githubusercontent.com/aikkhoonlow/MapleApp/main/maple_Icon_White_512.png</string>
-		<key>fullSizeImageURL</key>
 		<string>https://raw.githubusercontent.com/aikkhoonlow/MapleApp/main/maple_Icon_White_57.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://raw.githubusercontent.com/aikkhoonlow/MapleApp/main/maple_Icon_White_512.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>my.com.intds.maplebiz</key>
+		<string>adhoc20221224</string>
+		<key>my.com.intds.maplebiz.OneSignalNotificationServiceExtension</key>
+		<string>adhoc_onesignal_20221224</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>Apple Distribution</string>
 	<key>signingStyle</key>
-	<string>automatic</string>
+	<string>manual</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>

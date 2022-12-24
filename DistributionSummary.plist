@@ -14,11 +14,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>7785C241C2C0BF101699DEC811E0AA198F2EE950</string>
+				<string>8A11B65C70CAE573042F088CD832A187EC43756D</string>
 				<key>dateExpires</key>
-				<string>07/12/2023</string>
+				<string>24/12/2023</string>
 				<key>type</key>
-				<string>Cloud Managed Apple Distribution</string>
+				<string>Apple Distribution</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -32,11 +32,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7785C241C2C0BF101699DEC811E0AA198F2EE950</string>
+						<string>8A11B65C70CAE573042F088CD832A187EC43756D</string>
 						<key>dateExpires</key>
-						<string>07/12/2023</string>
+						<string>24/12/2023</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>App.framework</string>
@@ -60,11 +60,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7785C241C2C0BF101699DEC811E0AA198F2EE950</string>
+						<string>8A11B65C70CAE573042F088CD832A187EC43756D</string>
 						<key>dateExpires</key>
-						<string>07/12/2023</string>
+						<string>24/12/2023</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FMDB.framework</string>
@@ -88,11 +88,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7785C241C2C0BF101699DEC811E0AA198F2EE950</string>
+						<string>8A11B65C70CAE573042F088CD832A187EC43756D</string>
 						<key>dateExpires</key>
-						<string>07/12/2023</string>
+						<string>24/12/2023</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Flutter.framework</string>
@@ -116,11 +116,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7785C241C2C0BF101699DEC811E0AA198F2EE950</string>
+						<string>8A11B65C70CAE573042F088CD832A187EC43756D</string>
 						<key>dateExpires</key>
-						<string>07/12/2023</string>
+						<string>24/12/2023</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>OneSignal.framework</string>
@@ -144,11 +144,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7785C241C2C0BF101699DEC811E0AA198F2EE950</string>
+						<string>8A11B65C70CAE573042F088CD832A187EC43756D</string>
 						<key>dateExpires</key>
-						<string>07/12/2023</string>
+						<string>24/12/2023</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>OneSignalCore.framework</string>
@@ -172,11 +172,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7785C241C2C0BF101699DEC811E0AA198F2EE950</string>
+						<string>8A11B65C70CAE573042F088CD832A187EC43756D</string>
 						<key>dateExpires</key>
-						<string>07/12/2023</string>
+						<string>24/12/2023</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>OneSignalExtension.framework</string>
@@ -200,11 +200,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7785C241C2C0BF101699DEC811E0AA198F2EE950</string>
+						<string>8A11B65C70CAE573042F088CD832A187EC43756D</string>
 						<key>dateExpires</key>
-						<string>07/12/2023</string>
+						<string>24/12/2023</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>OneSignalOutcomes.framework</string>
@@ -228,11 +228,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7785C241C2C0BF101699DEC811E0AA198F2EE950</string>
+						<string>8A11B65C70CAE573042F088CD832A187EC43756D</string>
 						<key>dateExpires</key>
-						<string>07/12/2023</string>
+						<string>24/12/2023</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Reachability.framework</string>
@@ -256,11 +256,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7785C241C2C0BF101699DEC811E0AA198F2EE950</string>
+						<string>8A11B65C70CAE573042F088CD832A187EC43756D</string>
 						<key>dateExpires</key>
-						<string>07/12/2023</string>
+						<string>24/12/2023</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>connectivity_plus.framework</string>
@@ -284,11 +284,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7785C241C2C0BF101699DEC811E0AA198F2EE950</string>
+						<string>8A11B65C70CAE573042F088CD832A187EC43756D</string>
 						<key>dateExpires</key>
-						<string>07/12/2023</string>
+						<string>24/12/2023</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>path_provider_ios.framework</string>
@@ -312,11 +312,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7785C241C2C0BF101699DEC811E0AA198F2EE950</string>
+						<string>8A11B65C70CAE573042F088CD832A187EC43756D</string>
 						<key>dateExpires</key>
-						<string>07/12/2023</string>
+						<string>24/12/2023</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>pdf_viewer_plugin.framework</string>
@@ -340,11 +340,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7785C241C2C0BF101699DEC811E0AA198F2EE950</string>
+						<string>8A11B65C70CAE573042F088CD832A187EC43756D</string>
 						<key>dateExpires</key>
-						<string>07/12/2023</string>
+						<string>24/12/2023</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>sqflite.framework</string>
@@ -368,11 +368,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7785C241C2C0BF101699DEC811E0AA198F2EE950</string>
+						<string>8A11B65C70CAE573042F088CD832A187EC43756D</string>
 						<key>dateExpires</key>
-						<string>07/12/2023</string>
+						<string>24/12/2023</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>webview_flutter_wkwebview.framework</string>
@@ -394,11 +394,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7785C241C2C0BF101699DEC811E0AA198F2EE950</string>
+						<string>8A11B65C70CAE573042F088CD832A187EC43756D</string>
 						<key>dateExpires</key>
-						<string>07/12/2023</string>
+						<string>24/12/2023</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>entitlements</key>
 					<dict>
@@ -418,11 +418,11 @@
 					<key>profile</key>
 					<dict>
 						<key>UUID</key>
-						<string>07e1d1e4-38f0-4645-a024-c40310db07c8</string>
+						<string>46dc2a13-4b53-4918-bef2-c179d50568a7</string>
 						<key>dateExpires</key>
-						<string>07/12/2023</string>
+						<string>24/12/2023</string>
 						<key>name</key>
-						<string>iOS Team Ad Hoc Provisioning Profile: my.com.intds.maplebiz.OneSignalNotificationServiceExtension</string>
+						<string>adhoc_onesignal_20221224</string>
 					</dict>
 					<key>team</key>
 					<dict>
@@ -449,11 +449,11 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>86b4f491-d128-4f14-af25-51eb8a434aa2</string>
+				<string>61470264-00dd-42be-a45e-1675f7a29be4</string>
 				<key>dateExpires</key>
-				<string>07/12/2023</string>
+				<string>24/12/2023</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: my.com.intds.maplebiz</string>
+				<string>adhoc20221224</string>
 			</dict>
 			<key>team</key>
 			<dict>
