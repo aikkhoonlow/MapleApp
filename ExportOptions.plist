@@ -17,17 +17,8 @@
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
-	<key>provisioningProfiles</key>
-	<dict>
-		<key>my.com.intds.maplebiz</key>
-		<string>adhoc20221224</string>
-		<key>my.com.intds.maplebiz.OneSignalNotificationServiceExtension</key>
-		<string>adhoc_onesignal_20221224</string>
-	</dict>
-	<key>signingCertificate</key>
-	<string>8A11B65C70CAE573042F088CD832A187EC43756D</string>
 	<key>signingStyle</key>
-	<string>manual</string>
+	<string>automatic</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
