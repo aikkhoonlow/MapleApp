@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>maplebiz.ipa</key>
+	<key>markndo.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
@@ -10,15 +10,15 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>1</string>
+			<string>5</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>271BA5DD5DDA2AAE4E7F0D3799F0438947694973</string>
+				<string>DE4A8A750391C7F74DCBE4F6482FC2976A6FF717</string>
 				<key>dateExpires</key>
-				<string>28/12/2023</string>
+				<string>12/01/2024</string>
 				<key>type</key>
-				<string>iOS Distribution</string>
+				<string>Apple Distribution</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -32,11 +32,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>271BA5DD5DDA2AAE4E7F0D3799F0438947694973</string>
+						<string>DE4A8A750391C7F74DCBE4F6482FC2976A6FF717</string>
 						<key>dateExpires</key>
-						<string>28/12/2023</string>
+						<string>12/01/2024</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>App.framework</string>
@@ -60,11 +60,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>271BA5DD5DDA2AAE4E7F0D3799F0438947694973</string>
+						<string>DE4A8A750391C7F74DCBE4F6482FC2976A6FF717</string>
 						<key>dateExpires</key>
-						<string>28/12/2023</string>
+						<string>12/01/2024</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FMDB.framework</string>
@@ -88,11 +88,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>271BA5DD5DDA2AAE4E7F0D3799F0438947694973</string>
+						<string>DE4A8A750391C7F74DCBE4F6482FC2976A6FF717</string>
 						<key>dateExpires</key>
-						<string>28/12/2023</string>
+						<string>12/01/2024</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Flutter.framework</string>
@@ -116,11 +116,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>271BA5DD5DDA2AAE4E7F0D3799F0438947694973</string>
+						<string>DE4A8A750391C7F74DCBE4F6482FC2976A6FF717</string>
 						<key>dateExpires</key>
-						<string>28/12/2023</string>
+						<string>12/01/2024</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>OneSignal.framework</string>
@@ -144,11 +144,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>271BA5DD5DDA2AAE4E7F0D3799F0438947694973</string>
+						<string>DE4A8A750391C7F74DCBE4F6482FC2976A6FF717</string>
 						<key>dateExpires</key>
-						<string>28/12/2023</string>
+						<string>12/01/2024</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>OneSignalCore.framework</string>
@@ -172,11 +172,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>271BA5DD5DDA2AAE4E7F0D3799F0438947694973</string>
+						<string>DE4A8A750391C7F74DCBE4F6482FC2976A6FF717</string>
 						<key>dateExpires</key>
-						<string>28/12/2023</string>
+						<string>12/01/2024</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>OneSignalExtension.framework</string>
@@ -200,11 +200,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>271BA5DD5DDA2AAE4E7F0D3799F0438947694973</string>
+						<string>DE4A8A750391C7F74DCBE4F6482FC2976A6FF717</string>
 						<key>dateExpires</key>
-						<string>28/12/2023</string>
+						<string>12/01/2024</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>OneSignalOutcomes.framework</string>
@@ -228,11 +228,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>271BA5DD5DDA2AAE4E7F0D3799F0438947694973</string>
+						<string>DE4A8A750391C7F74DCBE4F6482FC2976A6FF717</string>
 						<key>dateExpires</key>
-						<string>28/12/2023</string>
+						<string>12/01/2024</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Reachability.framework</string>
@@ -256,11 +256,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>271BA5DD5DDA2AAE4E7F0D3799F0438947694973</string>
+						<string>DE4A8A750391C7F74DCBE4F6482FC2976A6FF717</string>
 						<key>dateExpires</key>
-						<string>28/12/2023</string>
+						<string>12/01/2024</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>connectivity_plus.framework</string>
@@ -284,11 +284,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>271BA5DD5DDA2AAE4E7F0D3799F0438947694973</string>
+						<string>DE4A8A750391C7F74DCBE4F6482FC2976A6FF717</string>
 						<key>dateExpires</key>
-						<string>28/12/2023</string>
+						<string>12/01/2024</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>path_provider_ios.framework</string>
@@ -312,11 +312,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>271BA5DD5DDA2AAE4E7F0D3799F0438947694973</string>
+						<string>DE4A8A750391C7F74DCBE4F6482FC2976A6FF717</string>
 						<key>dateExpires</key>
-						<string>28/12/2023</string>
+						<string>12/01/2024</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>pdf_viewer_plugin.framework</string>
@@ -340,11 +340,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>271BA5DD5DDA2AAE4E7F0D3799F0438947694973</string>
+						<string>DE4A8A750391C7F74DCBE4F6482FC2976A6FF717</string>
 						<key>dateExpires</key>
-						<string>28/12/2023</string>
+						<string>12/01/2024</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>sqflite.framework</string>
@@ -368,11 +368,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>271BA5DD5DDA2AAE4E7F0D3799F0438947694973</string>
+						<string>DE4A8A750391C7F74DCBE4F6482FC2976A6FF717</string>
 						<key>dateExpires</key>
-						<string>28/12/2023</string>
+						<string>12/01/2024</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>webview_flutter_wkwebview.framework</string>
@@ -391,26 +391,28 @@
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>3</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>271BA5DD5DDA2AAE4E7F0D3799F0438947694973</string>
+						<string>DE4A8A750391C7F74DCBE4F6482FC2976A6FF717</string>
 						<key>dateExpires</key>
-						<string>28/12/2023</string>
+						<string>12/01/2024</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>entitlements</key>
 					<dict>
 						<key>application-identifier</key>
-						<string>G8C4WBT7Q8.my.com.intds.maplebiz.OneSignalNotificationServiceExtension</string>
+						<string>G8C4WBT7Q8.com.markndo.markndoapp.OneSignalNotificationServiceExtension</string>
 						<key>com.apple.developer.team-identifier</key>
 						<string>G8C4WBT7Q8</string>
 						<key>get-task-allow</key>
 						<false/>
 						<key>keychain-access-groups</key>
 						<array>
-							<string>G8C4WBT7Q8.my.com.intds.maplebiz.OneSignalNotificationServiceExtension</string>
+							<string>G8C4WBT7Q8.com.markndo.markndoapp.OneSignalNotificationServiceExtension</string>
 						</array>
 					</dict>
 					<key>name</key>
@@ -418,11 +420,11 @@
 					<key>profile</key>
 					<dict>
 						<key>UUID</key>
-						<string>758ce200-53f4-44c3-9cf6-53da0dc929ca</string>
+						<string>d636d67e-3196-4005-9d79-3276e742160e</string>
 						<key>dateExpires</key>
-						<string>28/12/2023</string>
+						<string>12/01/2024</string>
 						<key>name</key>
-						<string>iOS Team Ad Hoc Provisioning Profile: my.com.intds.maplebiz.OneSignalNotificationServiceExtension</string>
+						<string>iOS Team Ad Hoc Provisioning Profile: com.markndo.markndoapp.OneSignalNotificationServiceExtension</string>
 					</dict>
 					<key>team</key>
 					<dict>
@@ -431,16 +433,22 @@
 						<key>name</key>
 						<string>MAPLE BUSINESS MANAGEMENT (M) SDN. BHD.</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
 				</dict>
 			</array>
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>G8C4WBT7Q8.my.com.intds.maplebiz</string>
+				<string>G8C4WBT7Q8.com.markndo.markndoapp</string>
 				<key>aps-environment</key>
 				<string>production</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>G8C4WBT7Q8</string>
+				<key>com.apple.security.application-groups</key>
+				<array>
+					<string>group.com.markndo.markndoapp</string>
+				</array>
 				<key>get-task-allow</key>
 				<false/>
 			</dict>
@@ -449,11 +457,11 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>caa590e6-fdc5-4da4-bc38-ed5b393f2332</string>
+				<string>f3829a85-5f46-4d08-9438-9287121ffac9</string>
 				<key>dateExpires</key>
-				<string>28/12/2023</string>
+				<string>12/01/2024</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: my.com.intds.maplebiz</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.markndo.markndoapp</string>
 			</dict>
 			<key>team</key>
 			<dict>
@@ -463,7 +471,7 @@
 				<string>MAPLE BUSINESS MANAGEMENT (M) SDN. BHD.</string>
 			</dict>
 			<key>versionNumber</key>
-			<string>1.0.0</string>
+			<string>1.0.5</string>
 		</dict>
 	</array>
 </dict>

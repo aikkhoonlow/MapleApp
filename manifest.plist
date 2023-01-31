@@ -29,15 +29,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>my.com.intds.maplebiz</string>
+				<string>com.markndo.markndoapp</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>Runner</string>
+				<string>Mark N Do</string>
 			</dict>
 		</dict>
 	</array>
